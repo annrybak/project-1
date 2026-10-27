@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+task2.py
+task2.pdf
+/protein.fasta
+/frame*.fasta
