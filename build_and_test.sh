@@ -1,4 +1,4 @@
-# !/usr/bin/env bash
+#!/usr/bin/env bash
 set -e
 jupyter nbconvert --to script task2.ipynb
 jupyter nbconvert --to pdf --execute task2.ipynb
