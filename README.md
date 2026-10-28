@@ -13,7 +13,7 @@ Input `ccATGGCTGAAACCTAAGG` → protein **MAET**
 
 ## Team
 
-- **Ania**
+- **Anna Rybak** (291423)
 - **Frania**
 - **Emilka**
 
