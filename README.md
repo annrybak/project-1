@@ -14,7 +14,7 @@ Input `ccATGGCTGAAACCTAAGG` → protein **MAET**
 ## Team
 
 - **Anna Rybak** (291423)
-- **Frania**
+- **Franka Dudka** (294324)
 - **Emilka**
 
 ## What the notebook does
